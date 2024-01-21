@@ -2,7 +2,7 @@
 ![Header](./imgfinal.png)
 <h1 align="center">Hi 👋, I'm Nandini Pandey</h1>
 
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/2IudUHdI075HL02Pkk/200w.gif?cid=6c09b952wm42la8qgtv8ftnfy76196wxogv0gpzjqzqruu7w&ep=v1_gifs_search&rid=200w.gif&ct=g">
+<img align="right" alt="Coding" width="300" src="https://media3.giphy.com/media/2IudUHdI075HL02Pkk/200w.gif?cid=6c09b952wm42la8qgtv8ftnfy76196wxogv0gpzjqzqruu7w&ep=v1_gifs_search&rid=200w.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandini-pandey&label=Profile%20views&color=0e75b6&style=flat" alt="nandini-pandey" /> </p>
 
