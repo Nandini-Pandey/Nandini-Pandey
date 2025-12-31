@@ -21,25 +21,23 @@
 
 <!--Intro start-->
 
-- 🌱 I’m currently learning **Web Development (MERN Stack)**
+- 🌱 I’m currently honing **Web Development.**
 
 - ☁️ I've keen interest in Web Development and Machine Learning.
 
-- 💬 Ask me about **Java, HTML, CSS, JavaScript, MySql, Python, Machine Learning, Data Structures and Algorithms**
 
-- 📫 Feel free to reach me out **nandinipandeygit@gmail.com**
 
 <!--Intro end-->
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Tools and Technologies That I've worked with👨🏻‍💻</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,html,css,js,py,mysql,react,git&perline=8" />
+    <img src="https://skillicons.dev/icons?i=java,html,css,js,py,mysql,react,git,nodejs,angular,mongodb,gitlab,flask,firebase,express,docker&perline=8" />
   </a>
 </p>
 
